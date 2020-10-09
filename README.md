@@ -1,4 +1,10 @@
-# Changes from this fork:
+# Changes in this fork:
+- Video support
+- atari2600 category
+- use os.path.join() so it works in Linux (I might have broken it in Windows)
+- spaces -> Tabs
+
+### ToxicCrack's changes:
 The romlist can now be 
 - filtered by minimum star ratings (own and community)
 - exclude specific filenames
